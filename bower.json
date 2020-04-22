@@ -1,5 +1,7 @@
 {
-  "name": "bootstrap-daterangepicker",
+  "name": "bootstrap-daterangepicker-extend",
+  "version": "2.1.28",
+  "homepage": "https://github.com/aDrygala/daterangepicker",
   "main": [
     "daterangepicker.js",
     "daterangepicker.css"
